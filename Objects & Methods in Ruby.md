@@ -1,10 +1,8 @@
-# [Objects & Methods in Ruby](https://github.com/generalassembly/wdi/blob/master/curriculum/baseline/01-programming/ruby/classes-and-objects-and-methods-in-ruby-lesson/readme.md)
+# Objects & Methods in Ruby
 
 ### Objectives
 - Describe objects and how they differ from a JS objects
-
 - Define object properties and methods
-
 - Write getter methods and setter methods to retrieve and set a property's value
 - Explain the phrase "everything is an object", including abstract things, basic data types, and objects we make up ourselves
 - Explain how an object's properties are only accessible with getter methods
@@ -47,7 +45,7 @@ my_banana = BananaStand.new
 
 Using code, let's see if we can find a way to describe what bananas are all about. How would we do this if it were a hash? Maybe something like:
 
-```rb
+```ruby
 my_hashed_banana_stand = {
   color: "yellow",
   opened_in: 1953,

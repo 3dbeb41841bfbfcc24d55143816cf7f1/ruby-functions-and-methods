@@ -27,7 +27,7 @@ def is_prime?(num)
       if num % counter == 0
         return false
       end
-      counter +=1
+      counter += 1
     end
     return true
   else
