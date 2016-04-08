@@ -51,7 +51,7 @@ def drinking_age?(age)
   age >= 21
 end
 
-if (drinking_age?(12))
+if (!drinking_age?(12))
   puts "You are underage."
 end
 if (drinking_age?(27))
