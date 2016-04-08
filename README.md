@@ -20,7 +20,7 @@ Functions and methods in Ruby are similar to what we learned in JavaScript:
 Ruby functions are defined as follows:
 
 ```ruby
-def getSum(a, b)
+def get_sum(a, b)
   a + b            # NOTE: the `return` keyword is not needed here
 end
 ```
@@ -28,7 +28,7 @@ end
 Compare this with JavaScript:
 
 ```javascript
-function get_sum(a, b) {
+function getSum(a, b) {
   return a + b;
 }
 ```
