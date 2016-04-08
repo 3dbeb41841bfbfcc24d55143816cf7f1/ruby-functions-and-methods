@@ -124,7 +124,7 @@ The colon before the key name indicates that we are using a Ruby `symbol` as a w
 
 ```ruby
 body_temp_f = 98.6
-body_temp_c = convert_to_celsius(tempF)
+body_temp_c = convert_to_celsius(body_temp_f)
 puts "The doubly converted temp is #{convert_to_fahrenheit(body_temp_c)}"
 ```
 
