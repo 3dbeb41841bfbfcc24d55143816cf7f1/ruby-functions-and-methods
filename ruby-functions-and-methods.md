@@ -171,7 +171,7 @@ The colon before the key name indicates that we are using a Ruby `symbol` as a w
 
 
 ### Air Conditioner
-Check out the [link here](../student_labs/ruby_ac_lab.md)
+Check out the [link here](https://github.com/ATL-WDI-Exercises/ruby_air_conditioner)
 
 ### Temp Converter
 * Write a function that converts Celsius to Fahrenheit
